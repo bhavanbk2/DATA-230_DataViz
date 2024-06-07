@@ -6,3 +6,8 @@ Banks make the majority of their money by lending out the investors' money to th
 
 - In this project, we look at different factors that could be considered before giving out a loan to ensure that the loan is only sanctioned to people who can repay it.
 
+- This analysis utilizes the Random Forest Classifier to minimize loan investment risks by analyzing the Lending Club loan defaulters dataset. 
+
+- The study develops a predictive model that identifies potential defaulters and improves decision-making accuracy. 
+
+- Hence, it emphasizes the need for the model to be used as a supportive tool and calls for further research and refinement for real-world lending scenarios.
